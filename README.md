@@ -3,9 +3,9 @@
 A clean, dark-themed calculator built with Python and Tkinter. It has click sounds, smooth hover animations, a live result preview and full keyboard support. It needs no extra packages.
 
 <p align="center">
-  <img src="screenshots/calculator-empty.png" alt="Calculator on startup" width="260">
+  <img src="/calculator-empty.png" startup" width="260">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/calculator-expression.png" alt="Calculator with a live preview" width="260">
+  <img src="/calculator-expression.png" alt="Calculator with a live preview" width="260">
 </p>
 
 ---
@@ -65,20 +65,7 @@ Sounds work out of the box on most systems:
 
 If no sound player is found, the calculator runs silently and still works normally.
 
----
-
-## 📁 Project Structure
-
-```
-.
-├── calculator.py
-├── screenshots/
-│   ├── calculator-empty.png
-│   └── calculator-expression.png
-└── README.md
-```
-
----
+-------
 
 ## 🛠️ Built With
 
